@@ -27,7 +27,7 @@
     <img src=https://user-images.githubusercontent.com/86077011/122677313-4801b500-d1fb-11eb-89b8-276c3633ef32.png alt="Logo" width="160" height="260">
   </a>
 
-  <h3 align="center">Forgotten Brick Game</h3>
+  <h3 align="center">GetIP</h3>
 
   <p align="center">
   <!--
@@ -85,7 +85,6 @@
 ![pic3](https://user-images.githubusercontent.com/86077011/122676768-e3455b00-d1f8-11eb-9c3c-a9de65611c92.png)
 
 
-The game came about when my friend accidentally broke his old Nokia phone. So after that he had bought a new modern one that uses the Android OS. Then he asked me if I could help him to revive one of games he loved to play on the old phone. The game was called Galaxy Balls. I decided to help him. After months (or maybe a year) of development I have made my own game with similar gamerules to the old one but much differently designed. This game is excellent for everyone who likes games with "3 in a row" mechanics and tetris style gameplay.
 
 ### Built With
 * [Java](https://www.java.com)
