@@ -30,20 +30,9 @@
   <h3 align="center">GetIP</h3>
 
   <p align="center">
-  <!--
-    An awesome README template to jumpstart your projects!
-    <br />
-    <a href="https://play.google.com/store/apps/details?id=com.rickrip.game0"><strong>Link to Play Market »</strong></a>
-    <br />
-    <br />
--->
-    <a href="https://play.google.com/store/apps/details?id=com.rickrip.game0">
-      <img alt="Play Store" src="https://img.shields.io/badge/Game_on_Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=green"/>
-    </a>
-    <a href="https://www.youtube.com/watch?v=dn3zrftrkGo">
-      <img alt="YouTube" src="https://img.shields.io/badge/YouTube_Game_Video-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white"/>
-    </a>
-   
+
+  
+  
   </p>
 </p>
 
