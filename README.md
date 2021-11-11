@@ -71,15 +71,13 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-![pic3](https://user-images.githubusercontent.com/86077011/122676768-e3455b00-d1f8-11eb-9c3c-a9de65611c92.png)
+<img src=https://user-images.githubusercontent.com/86077011/141326674-be512460-f485-44c0-9d72-0d38a7ef86ea.jpg alt="Logo" width="320" height="640">
+
 
 
 
 ### Built With
 * [Java](https://www.java.com)
-* [libGDX](https://libgdx.com)
-* [GLSL](https://wikipedia.org/wiki/OpenGL_Shading_Language)
-* [OpenGL ES 2.0](https://www.opengl.org)
 
 
 <!-- GETTING STARTED -->
